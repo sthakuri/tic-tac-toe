@@ -1,2 +1,6 @@
 # tic-tac-toe
-ASP.NET CORE MVC and C#
+Tools used:
+- HTML
+- Bootstrap
+- jQuery
+  
